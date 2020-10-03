@@ -12,7 +12,7 @@ client=discord.Client()
 ######## TORN API DATA #########
 
 
-apikey='S2pocryoVjOQzvlw'
+apikey='insert_key_here'
 
 
 @client.event
@@ -68,6 +68,6 @@ async def on_message(message):
 
 
 #running client on server
-client.run('NzYxNDQ4MzI4MjMxMTI1MDA0.X3awBA.mn3e8O6Iqq_kiLTK6fzX7CWeCFQ')
+client.run('insert_bot_token_here')
 
 
