@@ -64,49 +64,10 @@ async def on_message(message):
              
    await torn_script(message.content[6:])
    
-
-
-#"attacks won: ",data['attackswon']
-#(f"attacks won: {data['attackswon']}")
-#print('attacks lost: ',data['attackslost'])
-#print('defends won: ',data['defendswon'])
-#print('defends lost: ',data['defendslost'])
-#print('Total defends: ',data['defendswon']+['defendslost'])
-#print('Networth: ',data['networth'])
-#print('Money mugged: ',data['moneymugged'])
-#print('Largest mug: ',data['largestmug'])
-#print('Max level beaten: ',data['highestbeaten'])
-#print('Boosters used: ',data['boostersused'])
-#print('Xanax used: ',data['xantaken'])
-#print('Ecstacy used: ',data['exttaken'])
-#print('Time played: ',data['boostersused'])
-#print('Energy refills: ',data['refills'])
-
-
-
-
-
-
-# do stuff here
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
 #gen_channel=client.get_channel(742694272662503447)
 
 
 #running client on server
-client.run('NzYxNDQ4MzI4MjMxMTI1MDA0.X3awBA.u8472zu0jfjyb_pu1dwOZvqsZU4')
+client.run('NzYxNDQ4MzI4MjMxMTI1MDA0.X3awBA.mn3e8O6Iqq_kiLTK6fzX7CWeCFQ')
 
 
