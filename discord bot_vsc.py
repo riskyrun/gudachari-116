@@ -65,7 +65,7 @@ async def on_message(message):
             )
 
     await torn_script(message.content[6:])
-
+# testing
 
 # gen_channel=client.get_channel(742694272662503447)
 
